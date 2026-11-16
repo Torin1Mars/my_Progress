@@ -3,3 +3,4 @@
 - 12.11.2026 - training Docker
 - 13.11.2026 - training Docker
 - 14.11.2026 - training Docker
+- 16.11.2026 - training Docker
